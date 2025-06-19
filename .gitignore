@@ -1,0 +1,29 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore system files and temp folders
+AppData/
+Thumbs.db
+.DS_Store
+
+# Ignore logs
+*.log
+
+# VS Code settings (optional to ignore)
+.vscode/
+
+# Ignore compiled files
+*.pyd
+*.so
+*.dll
+
+# DO NOT ignore these (you want them in Git)
+# !*.pkl
+# !*.h5
