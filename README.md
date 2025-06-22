@@ -24,7 +24,7 @@ A project for predicting customer churn using an **Artificial Neural Network (AN
 
 ---
 
-## ⭐ Features
+## Features
 
 - **ANN-based churn prediction**
 - **End-to-end ETL pipeline**: data cleaning, encoding, scaling, splitting
@@ -34,7 +34,7 @@ A project for predicting customer churn using an **Artificial Neural Network (AN
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### **Prerequisites**
 - Python 3.7+  
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 - **Run Jupyter Notebooks:**
    
