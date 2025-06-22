@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠️ Workflow
+## Workflow
 
 1. **Data Loading**
     - Load `Churn_Modelling.csv`
