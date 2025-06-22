@@ -93,7 +93,7 @@ callbacks=[early_stopping, tensorboard]
 
 ## 📊 Model Performance
 
-### Classification Results
+### 📈 Classification Results
 | Epoch | Train Loss | Train Acc | Val Loss | Val Acc |
 |-------|------------|-----------|----------|---------|
 | 1 | 0.3893 | 83.64% | 0.3501 | 85.70% |
